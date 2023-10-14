@@ -1,1 +1,1 @@
-![Uploading screencapture-docs-google-document-d-1XartFCirXk0a8WQzrdjgASQJ1h-e3Xhqv0XG3LELVH4-edit-2023-10-14-23_44_56.jpg…]()
+![image](https://github.com/UserQA07/Tallinn-Learning/assets/144763744/f05ef1b9-04e1-41e8-ab9b-ee0aaf4a5ac3)
