@@ -8,9 +8,9 @@ pm.test("Response must be valid and have a body", function () {
      pm.response.to.be.withBody;
      //pm.response.to.be.json;
 });
-
 //  Статус 200 ОК с телом ответа при логине студента
 console.log(pm.response.text()); 
+
 pm.collectionVariables.set("student_token", pm.response.text()); 
 // Использование Bearer token как переменной для логина 
 
