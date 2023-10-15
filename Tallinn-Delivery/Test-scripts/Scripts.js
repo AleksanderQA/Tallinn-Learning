@@ -9,8 +9,8 @@ pm.test("Response must be valid and have a body", function () {
      //pm.response.to.be.json;
 });
 //  Статус 200 ОК с телом ответа при логине студента
-console.log(pm.response.text()); 
 
+console.log(pm.response.text()); 
 pm.collectionVariables.set("student_token", pm.response.text()); 
 // Использование Bearer token как переменной для логина 
 
@@ -54,6 +54,7 @@ pm.test('Get order by id=4345 and status=OPEN', () => {
     pm.expect(order.status).to.eql("OPEN");
 });
 // Поиск заказа тспользуя переменные 
+
 pm.test("Response time is less than 200ms", function () {
     pm.expect(pm.response.responseTime).to.be.below(200);
 });
@@ -63,6 +64,7 @@ pm.test("Status code is 200", function () {
   pm.response.to.have.status(200);
 });
 // Статус 200 ОК при создании курьера
+
 pm.test("Response must be valid and have a body", function () {
      pm.response.to.be.ok;
      pm.response.to.be.withBody;
