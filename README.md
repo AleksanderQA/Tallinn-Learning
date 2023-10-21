@@ -319,20 +319,20 @@ STLC и SDLC тесно связаны друг с другом, но они о�
 
 # Table of Contents
 
-[Headers](url)
-[Emphasis](url)
-[Lists](url)
-[Links](url)
-[Images](url)
-[Code and Syntax Highlighting](url)
-[Footnotes](url)
-[Tables](url)
-[[Blockquotes](url)
-[Inline HTML](url)
-[Horizontal Rule](url)
-[Line Breaks](url)
-YouTube Videos](url)
-Headers
+# **[Headers](url)**
+# **[Emphasis](url)**
+# **[Lists](url)**
+# **[Links](url)**
+# **[Images](url)**
+# **[Code and Syntax Highlighting](url)**
+# **[Footnotes](url)**
+# **[Tables](url)**
+# **[Blockquotes](url)**
+# **[Inline HTML](url)**
+# **[Horizontal Rule](url)**
+# **[Line Breaks](url)**
+# **[YouTube Videos](url)**
+# Headers
 # H1
 ## H2
 ### H3
