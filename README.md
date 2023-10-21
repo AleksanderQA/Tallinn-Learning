@@ -333,6 +333,7 @@ STLC и SDLC тесно связаны друг с другом, но они о�
 # **[Line Breaks](#)**
 # **[YouTube Videos](#)** 
 # Headers
+Headers
 # H1
 ## H2
 ### H3
@@ -355,7 +356,7 @@ H5
 H6
 Alternatively, for H1 and H2, an underline-ish style:
 
-Alt-H1[^1]
+Alt-H1
 Alt-H2
 Emphasis
 Emphasis, aka italics, with *asterisks* or _underscores_.
@@ -497,11 +498,11 @@ But let's throw in a <b>tag</b>.
 Footnotes
 Footnotes aren't part of the core Markdown spec, but they supported by GFM.
 
-Here is a simple footnote [^1].
+Here is a simple footnote[^1].
 
-A footnote can also have multiple lines [^2].  
+A footnote can also have multiple lines[^2].  
 
-You can also use words, to fit your writing style more closely [^note].
+You can also use words, to fit your writing style more closely[^note].
 
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.  
@@ -509,7 +510,7 @@ You can also use words, to fit your writing style more closely [^note].
 [^note]:
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
-Renders to:>
+Renders to:
 
 rendered footnotes
 
@@ -622,7 +623,6 @@ Or, in pure Markdown, but losing the image sizing and border:
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
-
 </details>
 
 
