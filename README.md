@@ -312,5 +312,14 @@ STLC и SDLC тесно связаны друг с другом, но они о�
 Исправление ошибок;
 Обновление;
 Улучшение.
-</details>
+<details>
+
+<details>
+
+<summary> Markdown cheatsheet</summary>
+
+![image](https://github.com/UserQA07/Tallinn-Learning/assets/144763744/b5c86680-036d-42f6-9f18-2a07cae72e7b)
+
+<details/>
+
 
