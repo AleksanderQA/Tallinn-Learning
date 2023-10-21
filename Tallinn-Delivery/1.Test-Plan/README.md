@@ -1,1 +1,1 @@
-![screencapture-docs-google-document-d-1ilqymG0bkozckEE5WLlT6J-lq8v5BZGj3sw9WvJDhiI-edit-2023-10-21-12_25_20](https://github.com/UserQA07/Tallinn-Learning/assets/144763744/651eab73-e42e-4c29-8542-cc6d539b93da)
+![image](https://github.com/UserQA07/Tallinn-Learning/assets/144763744/2c3de37c-8776-48a4-aac1-eb0fe9e980eb)
