@@ -503,7 +503,7 @@ A footnote can also have multiple lines
 
 You can also use words, to fit your writing style more closely
 
-<[^1]: My reference.
+<[^1]: My reference.[^1].
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
 [^note]:
