@@ -318,19 +318,19 @@ STLC и SDLC тесно связаны друг с другом, но они о�
 
 <summary> Markdown cheatsheet</summary>
 # Table of Contents
-Headers
-Emphasis
-Lists
-Links
-Images
-Code and Syntax Highlighting
-Footnotes
-Tables
-Blockquotes
-Inline HTML
-Horizontal Rule
-Line Breaks
-YouTube Videos
+[Headers](url)
+[Emphasis](url)
+[Lists](url)
+[Links](url)
+[Images](url)
+[Code and Syntax Highlighting](url)
+[Footnotes](url)
+[Tables](url)
+[[Blockquotes](url)
+[Inline HTML](url)
+[Horizontal Rule](url)
+[Line Breaks](url)
+YouTube Videos](url)
 Headers
 # H1
 ## H2
