@@ -318,7 +318,7 @@ STLC и SDLC тесно связаны друг с другом, но они о�
 
 <summary> Markdown cheatsheet</summary>
 # Table of Contents
-[Headers](Headers)
+Headers
 Emphasis
 Lists
 Links
@@ -339,7 +339,7 @@ Headers
 ##### H5
 ###### H6
 
-[Alternatively, for H1 and H2, an underline-ish style:]([Headers](Headers))
+Alternatively, for H1 and H2, an underline-ish style:
 
 Alt-H1
 ======
