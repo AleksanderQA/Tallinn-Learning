@@ -319,7 +319,7 @@ STLC и SDLC тесно связаны друг с другом, но они о�
 
 # Table of Contents
 
-# **[Headers](url)**
+# **[Headers](^1)**
 # **[Emphasis](url)**
 # **[Lists](url)**
 # **[Links](url)**
@@ -331,7 +331,7 @@ STLC и SDLC тесно связаны друг с другом, но они о�
 # **[Inline HTML](url)**
 # **[Horizontal Rule](url)**
 # **[Line Breaks](url)**
-# **[YouTube Videos](url)**
+# **[YouTube Videos](url)** 
 # Headers
 # H1
 ## H2
@@ -355,7 +355,7 @@ H5
 H6
 Alternatively, for H1 and H2, an underline-ish style:
 
-Alt-H1
+Alt-H1[^1]
 Alt-H2
 Emphasis
 Emphasis, aka italics, with *asterisks* or _underscores_.
