@@ -2,7 +2,7 @@
   <summary>Agile/Scrum methodologies</summary>
  
 
-# <b>Agile Methodology<b>
+# [^1]: <b>Agile Methodology<b>
 # Ретроспектива
 # Ключевые концепции Agile  
 
