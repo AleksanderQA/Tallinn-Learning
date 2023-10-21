@@ -2,7 +2,7 @@
   <summary>Agile/Scrum methodologies</summary>
  
 
-# [^1]: <b>Agile Methodology<b>
+# <b>Agile Methodology<b>
 # Ретроспектива
 # Ключевые концепции Agile  
 
@@ -319,7 +319,7 @@ STLC и SDLC тесно связаны друг с другом, но они о�
 
 # ***Table of Contents***
 
-# [^1]: **[Headers](#)**
+# **[Headers](#)**
 # **[Emphasis](#)**
 # **[Lists](#)**
 # **[Links](url)**
