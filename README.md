@@ -315,9 +315,10 @@ STLC и SDLC тесно связаны друг с другом, но они о�
 </details>
 
 <details>
-
 <summary> Markdown cheatsheet</summary>
+
 # Table of Contents
+
 [Headers](url)
 [Emphasis](url)
 [Lists](url)
