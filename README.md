@@ -95,7 +95,8 @@ Scrum лучше всего подходит в случае, когда кро�
 <details>
   <summary>STLC/SDLC</summary>
 
-![image](https://github.com/UserQA07/STLC-SDLC/assets/144763744/5ae89c31-52f9-40f2-8767-56ccb9b12267)
+![image](https://github.com/UserQA07/Tallinn-Learning/assets/144763744/faebd6cc-8d18-464b-a6f6-bdfd9443eab6)
+
 
 # STLC - Software Testing Lifecycle
 
