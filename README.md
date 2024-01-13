@@ -1,7 +1,6 @@
 <details>
   <summary>Agile/Scrum methodologies</summary>
  
-***Razeron***
 # __Agile Methodology__   
 # Ретроспектива
 # Ключевые концепции Agile  
