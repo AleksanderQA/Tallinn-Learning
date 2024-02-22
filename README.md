@@ -885,17 +885,8 @@ Referencing a bug by #bugID in your git commit links it to the slip. For example
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
   </details>
 
-# Check list for :page_facing_up:    - *Calculator class* 
----
 
-|№ | Check name                                     | Status |
-|--|------------------------------------------------|--------|
-|1 | Negative value is not equal to possitive value | Passed 
-|2| Bigger value is not equal to smaller value     | Passed |
-|3| Sum of 3 int values is equal to int 10         | Passed |
-|4| Sum of int 2 values is not equal to int 10     | Passed |
-|5| Subtracting half from int 10 gives int 5       | Passed |
-|6|Multiplication of two values gives expected result| Passed |
+
 
 
 
